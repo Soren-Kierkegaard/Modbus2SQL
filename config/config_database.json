@@ -1,0 +1,13 @@
+{
+    "host": "192.168.200.001",
+    "dbname": "db_01",
+    "user": "db_user",
+    "pass": "xxxxxxxxx",
+    "tlist": ["unit1", "unit2", "unit3", "unit4", "unit5", "unit6", "unit7", "unit8", "unit9", "unit10", "unit11_hevrs", "unit11_utility", "unit12", "hpu1", "hpu2", "lrs"],
+	
+	"_comment" : "tables_registres maps an SQL table to modbus register id and column name",
+	
+	"tables_registres": {"table1": {"40001": "T018BA"}, 
+                        "table2": {"40003": "T018BB", "40025": "T018C6", "40027": "T018C7", "40029": "T018C8", "40031": "T018C9", "40033": "T018CA", "40035": "T018CB", "40037": "T018CC", "40039": "T018CD", "40041": "T018CE", "40266": "T0195B", "40267": "T0195C"}, 
+						"table3": {"40005": "T018BC", "40043": "T018CF", "40045": "T018D0", "40047": "T018D1", "40049": "T018D2", "40051": "T018D3", "40053": "T018D4", "40055": "T018D5", "40057": "T018D6", "40059": "T018D7", "40268": "T0195D", "40269": "T0195E"}}
+}
