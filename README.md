@@ -1,6 +1,6 @@
 # Modbus2SQL
 
-![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/img/modbus1.png)
+![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/blob/img/modbus1.png)
 
 A programm that can read outputs of a programmable logic controller (PLC) via modbus communication protocol through a modbus client/server architectur
 
