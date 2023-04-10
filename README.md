@@ -1,6 +1,6 @@
 # Modbus2SQL
 
-![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/blob/img/modbus1.png)
+![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/blob/main/img/modbus1.png)
 
 A programm that can read outputs of a programmable logic controller (PLC) via modbus communication protocol through a modbus client/server architectur
 
@@ -25,7 +25,7 @@ A programm that can read outputs of a programmable logic controller (PLC) via mo
 
 # Architecture
 
-- ![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/img/modbus4.png)
+- ![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/blob/main/img/modbus4.png)
 
 # Configuration
 
@@ -38,7 +38,7 @@ There are 2 configuration files :
   * If you use a different protocol that TCP/IP, please change the Trasport Classes : https://pymodbus.readthedocs.io/en/latest/source/library/client.html#transport-classes 
 # Modbus Registers
 
-- ![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/img/modbus2.png)
+- ![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/blob/main/img/modbus2.png)
 
 As an example value by default in the config_modbus.json are for Holding Registers that start at offset 40001
 if you used different registers, you will need :
@@ -50,7 +50,7 @@ if you used different registers, you will need :
 
 Time is coded a bit differently in registers and neda bit of extra works to be process properly
 
-- ![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/img/modbus3.png)
+- ![Résultats](https://github.com/Soren-Kierkegaard/Modbus2SQL/blob/main/img/modbus3.png)
 
 # Requirements
 
